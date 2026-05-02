@@ -16,7 +16,7 @@ Comandos
 
 ## Uso
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 Lenguaje: Python.
 
 Arquitectura: Programación Orientada a Objetos (POO).
