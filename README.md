@@ -7,8 +7,8 @@ Ruta Cultural nace para unir en un solo lugar toda la riqueza de nuestro pueblo,
 ## Requisitos previos
 * **subtitulo**: Hola
 
-## Istalación
-Hola
+## Instalación
+
 
 ...
 Comandos
@@ -16,4 +16,11 @@ Comandos
 
 ## Uso
 
-#HOLA
+## 🛠️ Tecnologías Utilizadas
+Lenguaje: Python.
+
+Arquitectura: Programación Orientada a Objetos (POO).
+
+Principios: Aplicación de principios SOLID para un código escalable y limpio.
+
+Diseño: Heurísticas de usabilidad aplicadas para una mejor experiencia de usuario (UX).
