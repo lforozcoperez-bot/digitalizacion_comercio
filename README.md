@@ -14,13 +14,10 @@ Comandos
 ...
 
 ## Uso
-Aplicacion con mapa interaactivo
+
 
 ## Tecnologías Utilizadas
 Lenguaje: Python.
-
 Arquitectura: Programación Orientada a Objetos (POO).
-
 Principios: Aplicación de principios SOLID para un código escalable y limpio.
-
 Diseño: Heurísticas de usabilidad aplicadas para una mejor experiencia de usuario (UX).
