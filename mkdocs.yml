@@ -1,0 +1,15 @@
+site_name: Wiki de Proyecto - Digitalizacion Comercio
+theme:
+  name: material  
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.expand
+    - search.suggest
+
+nav:
+  - inicio: index.md
+  - documentación:
+      - instalacion: instalacion.md
+      - manual de usuario: manual.md
