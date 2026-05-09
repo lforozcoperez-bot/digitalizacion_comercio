@@ -14,7 +14,7 @@ Comandos
 ...
 
 ## Uso
-
+Aplicacion con mapa interaactivo
 
 ## Tecnologías Utilizadas
 Lenguaje: Python.
